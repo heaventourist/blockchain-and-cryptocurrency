@@ -10,7 +10,7 @@ import nacl.encoding
 import nacl.signing
 from functools import reduce
 
-NUM_NODES = 20
+NUM_NODES = 40
 UNVERIFIED_POOL = list()
 GLOBAL_QUEUES = dict()
 

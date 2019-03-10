@@ -7,8 +7,8 @@ import random, copy
 import binascii
 
 
-numTransaction = 40
-num_nodes = 20
+numTransaction = 100
+num_nodes = 40
 
 def generateNodes():
     nodesInfo = dict()
