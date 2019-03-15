@@ -6,7 +6,7 @@ my_variance = 1
 
 random_numbers = []
 cnt = 0
-while cnt < 10000:
+while cnt < 1000:
     num = int(gauss(my_mean, math.sqrt(my_variance))*10)
     if num<0 or num >100:
         continue
